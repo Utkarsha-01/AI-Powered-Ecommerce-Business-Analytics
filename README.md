@@ -1,4 +1,4 @@
-# AI-Powered E-Commerce Business Analytics
+# E-Commerce Business Analytics
 
 ## Project Overview
 
